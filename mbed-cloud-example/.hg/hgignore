@@ -26,6 +26,3 @@ Debug
 mbed_settings.py
 *.py[cod]
 # subrepo ignores
-mbed-os
-sd-driver
-simple-mbed-cloud-client
